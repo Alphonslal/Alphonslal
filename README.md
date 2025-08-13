@@ -1,4 +1,4 @@
-Aspiring post-graduate student of Econometrics and Financial Econometrics focusing on Economtrics, financial technology and data analytics.
+Aspiring post-graduate student of Econometrics and Financial Econometrics focusing on Econometrics, financial technology and data analytics.
 
 <!--
 **Alphonslal/Alphonslal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
