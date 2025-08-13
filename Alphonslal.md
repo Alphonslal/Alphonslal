@@ -11,16 +11,19 @@ B.A. Economics – St. John’s College, Anchal 2021–2024, University of Keral
 
 
 #**Skills**
+
 • Programming: Python, Gretl, LaTeX
 • Tools: Excel (Advanced), Power BI, EViews, Git
 • Econometrics: Panel Data, VAR, GMM, Cointegration
 
 
 #**Languages**
+
 English, Malayalam
 
 
 #**Connect**
+
 alphonsayoor@gmail.com
 
 https://www.linkedin.com/in/alphons-lal-45253a325
